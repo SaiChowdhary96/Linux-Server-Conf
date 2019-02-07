@@ -1,6 +1,6 @@
 # Linux-Server-Conf
 
-## Project OverView
+## Project Overview
 This Project is a part of Nano Degree based on Full Stack Development by Udacity.
 This Project mainly explains the installation of a Linux Server and used to host web applications. This includes securing our server from several attacks, installing and configuring a database server and deploying one of our existing applications into it.
 
@@ -236,7 +236,7 @@ Create User Catalog :
 
 **Step 5.** Now rename the main project file:
 
-    sudo mv projectflask.py __init__.py.
+    sudo mv finalproject.py __init__.py.
 
 **Step 6.** Now in python files, change the database sqllite engine to postgres engine.
 
@@ -327,7 +327,7 @@ and set Redirect URI’s
 
     	. venv3/bin/activate
                      
-* After activating Virtual environment, you need to install the following packages:
+### After activating Virtual environment, you need to install the following packages:
 ```
     sudo apt-get install pip3
     pip3 install flask
