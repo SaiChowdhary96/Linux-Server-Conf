@@ -228,7 +228,7 @@ Create User Catalog :
 
 **Step 3.** Now clone our git project here:
 
-    sudo git clone ‘path(https://github.com/satyamadhu09/catalog.git)’.
+    sudo git clone ‘path(https://github.com/SaiChowdhary96/catalog.git)’.
 
 **Step 4.** Now change the owner permissions:
 
